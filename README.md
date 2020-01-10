@@ -8,6 +8,6 @@
 
 [观察者模式- 类 React 的实现](./Observer.js)
 
-[使用 Reduce 模拟一切和算子](./Functional/index.js)
+[使用 Reduce 模拟几个数组方法和算子](./Functional/index.js)
 
 [Tps交通灯](./traffic-light/index.js)
